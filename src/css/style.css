@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+.bodyCopy {
+  font-size: 18px;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-content: flex-end;
+  margin: 0 4% 2% 65%;
+  padding: 0;
+}
+/*# sourceMappingURL=style.css.map */
